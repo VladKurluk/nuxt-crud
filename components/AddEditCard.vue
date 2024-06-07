@@ -106,7 +106,7 @@
 
 <script setup lang="ts">
 import { v4 as uuidv4 } from 'uuid';
-import _cloneDeep from 'lodash.cloneDeep';
+import { _cloneDeep } from 'lodash.cloneDeep';
 import { format,  isEqual } from 'date-fns';
 import { useForm } from 'vee-validate';
 
