@@ -2,7 +2,7 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## View the demo [Netlify]()
+## View the demo [Netlify](https://nuxt3crud.netlify.app/)
 
 ## Setup
 
